@@ -1,0 +1,53 @@
+.table1 {
+	padding: 5px;
+	border: 2px double grey;
+	text-align: center;
+	font-size: 13px;
+	background-color: #B0ADAD;
+	border-collapse: collapse;
+}
+th.title {
+	background-color: grey;
+}
+th {
+	border: 1px solid black;
+}
+td {	
+	border: 1px solid grey;
+}
+td.yes {
+	background-color: #00FF22;
+}
+td.no {
+	background-color: red;
+}
+.subjectactive {
+	background-color: lightgrey;
+	color: orange;
+}
+.image {
+	border: none;
+	text-align: left;
+}
+.othersearch {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-collapse: seperate;
+	border-spacing: 3px;
+}
+.othersearch1 {
+	font-size: 20px;
+}
+.othersearch1, .othersearch2, .othersearch3{
+	border: none;
+	vertical-align: top;
+}
+.othersearch3 img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.otherlist {
+	color: #FFAB00;
+	font-size: 20px;
+}
